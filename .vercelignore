@@ -1,0 +1,6 @@
+site-estatico
+base
+.playwright-mcp
+DESIGN.md
+.env*
+!.env.example
