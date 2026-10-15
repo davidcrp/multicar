@@ -2,6 +2,8 @@
 
 Site de revenda de veículos com painel administrativo.
 
+**Site no ar:** https://carro-bice.vercel.app
+
 - **Site público:** página inicial com estoque e filtros; página de detalhes de cada carro (`/carros/<slug>`).
 - **Painel:** `/admin` — cadastrar, editar, ocultar e excluir veículos, enviar fotos e ver os contatos recebidos.
 
